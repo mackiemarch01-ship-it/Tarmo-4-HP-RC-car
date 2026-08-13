@@ -84,7 +84,7 @@ I started this project officially around a year ago because I ran out of stuff t
 ### Links
 
 ##### Onshape link:
-[placeholder](https://cad.onshape.com/documents/9bbde2915b58dcc5d394239b/w/76bc731649daaa891173c7ea/e/1cbc67c5c6dc1ce02f15dc2f?renderMode=0&uiState=6a7d90d16c24be16de2e1a14)
+[Link](https://cad.onshape.com/documents/9bbde2915b58dcc5d394239b/w/76bc731649daaa891173c7ea/e/1cbc67c5c6dc1ce02f15dc2f?renderMode=0&uiState=6a7d90d16c24be16de2e1a14)
 
 ##### Build guide:
 [Link](https://docs.google.com/document/d/1ct8zCZzM1krHP-Pp0RBTua_wGqpxRtsJ6s1tjubo5Lw/edit?usp=sharing)
